@@ -62,7 +62,6 @@
     "eslint-plugin-prettier": "^3.4.1",
     "@babel/eslint-parser": "^7.17.0",
     "@babel/preset-react": "^7.16.7",  
-    "eslint-config-react-app",
     "nodemon": "^2.0.19",
     "prettier": "^2.6.2"
   }
