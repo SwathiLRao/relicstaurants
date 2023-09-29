@@ -55,7 +55,6 @@
       "last 1 safari version"
     ]
   },
-  "eslintConfig": { "extends": [ "react-app", "react-app/jest" ] },
   "devDependencies": {
     "eslint": "^7.32.0",
     "eslint-config-prettier": "^7.2.0",
